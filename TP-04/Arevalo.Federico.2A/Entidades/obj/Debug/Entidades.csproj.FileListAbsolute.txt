@@ -1,0 +1,7 @@
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\Entidades\bin\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\Entidades\bin\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\Entidades\obj\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\Entidades\obj\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\Entidades\bin\Debug\Entidades.dll.config

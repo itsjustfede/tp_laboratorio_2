@@ -1,0 +1,14 @@
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\bin\Debug\FrmTP4.exe.config
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\bin\Debug\FrmTP4.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\bin\Debug\FrmTP4.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.Properties.Resources.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.csproj.GenerateResource.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\bin\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\bin\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\bin\Debug\Entidades.dll.config
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.FrmPrincipal.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP4\Arevalo.Federico.2A\FrmTP4\obj\Debug\FrmTP4.csproj.CopyComplete
