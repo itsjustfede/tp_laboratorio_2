@@ -1,0 +1,36 @@
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.exe
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.pdb
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.exe
+F:\usuarios\alumno\Escritorio\facu\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\MiCalculadora.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\bin\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\MiCalculadora\obj\Debug\MiCalculadora.pdb

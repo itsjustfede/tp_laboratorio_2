@@ -1,0 +1,12 @@
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\Entidades\bin\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\Entidades\bin\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\Entidades\bin\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\Entidades\bin\Debug\Entidades.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.dll
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\tps\Recuperatorio TP\TP1\Arevalo.Federico\Entidades\obj\Debug\Entidades.pdb
